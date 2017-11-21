@@ -1,0 +1,15 @@
+title: Defense Against the Dark Arts
+acronym: DATDA
+description: University of Wyoming's Cybersecurity Club (RSO)
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://datda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: datda307
+github_username:  DATDA
+
+# Build settings
+markdown: kramdown
+theme: datda-theme
+
+contact:
+  email: cedar@cs.uwyo.edu
