@@ -9,7 +9,7 @@ github_username:  DATDA
 
 # Build settings
 markdown: kramdown
-theme: datda-theme
+theme: jekyll-theme-cayman
 
 contact:
   email: cedar@cs.uwyo.edu
