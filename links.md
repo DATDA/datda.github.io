@@ -12,3 +12,4 @@
 * [front matter](http://jekyllrb.com/docs/frontmatter/)
 * [templates](http://jekyllrb.com/docs/templates/)
 * [includes](http://jekyllrb.com/docs/includes/)
+* [liquid template engine](https://help.shopify.com/themes/liquid/basics)

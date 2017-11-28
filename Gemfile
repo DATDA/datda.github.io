@@ -1,1 +1,4 @@
-gem "datda-theme", :path=>"./datda-theme"
+source 'https://rubygems.org'
+
+
+gem "jekyll-theme-cayman"
