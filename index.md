@@ -2,9 +2,4 @@
 layout: default
 ---
 # Welcome
-Welcome to DATDA, or Defense Against The Dark Arts. We are the Cybersecurity student club at the University of Wyoming.
-
-test change
-
-
-[Show how-to page](howto)
+Welcome to DATDA, or *Defense Against The Dark Arts*. ***We are the Cybersecurity student club at the University of Wyoming.***
