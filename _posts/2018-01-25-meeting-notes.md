@@ -31,3 +31,24 @@ We may try to reserve a table in the union in the future.
 ## Funding
 We discussed requesting funding from Rocky Mountain Power and Trihydro Corporation.
 
+---------------------------------
+## Activity Poll Results
+
+```
+6 - Common Vulnrabilities (Web + Binary)
+6 - Cool Vulnrabilities (CVEs, High Profile Attacks)
+6 - RF
+5 - Sys Administration (Setting up Accounts, VMs, Containers, Servers)
+4 - Game Hacking (Modding, Retro Game Code Injection, Modelling)
+4 - Cryptography
+3 - Cracking (Wifi, Passwords)
+3 - CTF Solutions
+3 - OsDev
+1 - Cryptocurrencies / Blockchains
+
+8 - Lockpicking
+7 - Interactove Stuff
+7 - CTFs
+6 - Boot to Root(?)
+4.4 - Datda Wars
+```
