@@ -29,7 +29,7 @@ DATDA is the Computer Security Club of the University of Wyoming.
 Defense Against The Dark Arts
 
 ## Where can I learn more?
-* We meet Tuesdays @ 6pm in EN4066. All are welcome. Bring a laptop for optimal engagement.
+* We meet Thursdays @ 7pm in EN4066. All are welcome. Bring a laptop for optimal engagement.
 * We also post stuff on our Github.
 * We also have a chat currently hosted under the "Discord" tab at the top of the page.
 * We even have an IRC that someone is usually on (#DATDA on freenode)
