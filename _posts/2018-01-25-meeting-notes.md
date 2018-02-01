@@ -19,7 +19,7 @@ There were some issues with the servers that are now resolved.
 ## DATDA as a Service
 There is not much interest in working on pentesting. We decided to fulfill our existing commitments, which we need a list of.
 
-We decided to try doing IT work instead. There is now a #datda_it channel in the Discord with more information.
+We decided to try doing IT work instead. There is now a #datda_it channel in the Discord and [a page on our website](https://datda.tk/datda_it) with more information. *[Edited by Bugg]*
 
 ## Recruitment
 Adam will send an department-wide email for the next meeting.
