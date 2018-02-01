@@ -23,6 +23,7 @@ DATDA is the Computer Security Club of the University of Wyoming.
 * Metasploitable
 * OWASP Bricks
 * DVWA
+* Boot2Roots
 * Etc...
 
 ## What does DATDA stand for?
@@ -30,9 +31,8 @@ Defense Against The Dark Arts
 
 ## Where can I learn more?
 * We meet Thursdays @ 7pm in EN4066. All are welcome. Bring a laptop for optimal engagement.
-* We also post stuff on our Github.
-* We also have a chat currently hosted under the "Discord" tab at the top of the page.
-* We even have an IRC that someone is usually on (#DATDA on freenode)
+* We also post stuff on our [Github](https://github.com/DATDA).
+* We also have a Discord chat listed under the "Contact Us" tab.
 * Are you an RSO?
 * Yes. [UWConnect Site](https://uwyo.campuslabs.com/engage/organization/datda)
 
