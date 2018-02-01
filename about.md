@@ -32,7 +32,7 @@ Defense Against The Dark Arts
 ## Where can I learn more?
 * We meet Thursdays @ 7pm in EN4066. All are welcome. Bring a laptop for optimal engagement.
 * We also post stuff on our [Github](https://github.com/DATDA).
-* We also have a Discord chat listed under the "Contact Us" tab.
+* We also have a Discord chat listed [here](https://datda.tk/contact).
 * Are you an RSO?
 * Yes. [UWConnect Site](https://uwyo.campuslabs.com/engage/organization/datda)
 
