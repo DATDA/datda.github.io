@@ -47,7 +47,7 @@ We discussed requesting funding from Rocky Mountain Power and Trihydro Corporati
 1 - Cryptocurrencies / Blockchains
 
 8 - Lockpicking
-7 - Interactove Stuff
+7 - Interactive Stuff
 7 - CTFs
 6 - Boot to Root(?)
 4.4 - Datda Wars
