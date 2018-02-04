@@ -12,7 +12,7 @@ author: cogg
 - SQL Injection and Password Storage
 - Proxy Servers
 
-Many of our old presentation slides can be found on the [wiki](https://github.com/DATDA/main/wiki/Presentations)
+Many of our old presentation slides can be found on the [wiki](https://github.com/DATDA/main/wiki/Presentations).
 
 ## DATDA Wars
 Discussed how to connect to the servers.
