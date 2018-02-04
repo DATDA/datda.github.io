@@ -11,6 +11,7 @@ author: cogg
 ## Presentation Topics
 - SQL Injection and Password Storage
 - Proxy Servers
+
 Many of our old presentation slides can be found on the [wiki](https://github.com/DATDA/main/wiki/Presentations)
 
 ## DATDA Wars
