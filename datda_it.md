@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# DATDA IT
+# [DATDA IT](mailto:datda.uwyo@gmail.com)
 
 ## What is DATDA IT?
 DATDA IT is one of the ways we fund our Cybersecurity Education! It consists of offereing basic IT services to anyone in need in exchange for a small fee for our club. 
