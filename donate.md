@@ -9,7 +9,7 @@ Please [Email Us](mailto:datda.uwyo@gmail.com) for donations of monies or equipm
 
 We also have several special donation pages you can use to donate your computers power directly to support DATDA. 
 
-[10% Page](https://datda.tk/donate_10) | [50% Page](https://datda.tk/donate_50) | [100% Page](https://datda.tk/donate_100)
+[10% Page](https://madesafeinwyoming.com/donate_10.html) | [50% Page](https://madesafeinwyoming.com/donate_50.html) | [100% Page](https://madesafeinwyoming.com/donate_100.html)
 
 ## What does this money fund?
 This money funds those hopes and dreams! It goes toward recruitment, conferences, equipment, competitions and more!
