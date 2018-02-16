@@ -11,6 +11,8 @@ We also have several special donation pages you can use to donate your computers
 
 [10% Page](https://madesafeinwyoming.com/donate_10.html) | [50% Page](https://madesafeinwyoming.com/donate_50.html) | [100% Page](https://madesafeinwyoming.com/donate_100.html)
 
+You can even [**Play while you donate!**](https://madesafeinwyoming.com/play)
+
 ***Note: Many Anti-Virus and Ad-Blockers will report this site as a virus/malware.*** *This is to protect their users from malicous websites whom do not report their usage of cryptominers. We will not use your computing power without your explicit knowledge and authorization. Additionally, our site does not harm or infect your computer in any way. If you wish to stop donating, simply leave the page or close your browser and the mining will stop immediately.*
 
 ## What does this money fund?
