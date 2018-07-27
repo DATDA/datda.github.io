@@ -18,7 +18,7 @@ DATDA IT is one of the ways we fund our Cybersecurity Education! It consists of 
 * [Email Us](mailto:datda.uwyo@gmail.com) your problem, and one of our experts will get back to you within 24 hours. 
 
 ## How much will it cost?
-* It depends on the problem and we will give you a quote before we start working on it.
+* It depends on the problem and we will give you a requested donation amount before we start working on it. As donations are not manditory if you cannot donate we will still help.
 
 ## How long will it take?
 * If we can't turn it around in a week, you don't pay.
