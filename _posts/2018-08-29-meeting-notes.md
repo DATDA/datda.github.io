@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meeting Notes"
+title:  "Meeting Notes for August 29th, 2018"
 date:   2018-08-29
 categories: notes
 author: Bugg
