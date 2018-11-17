@@ -4,7 +4,7 @@ layout: default
 # [DATDA IT](mailto:datda.uwyo@gmail.com)
 
 ## What is DATDA IT?
-DATDA IT is one of the ways we fund our Cybersecurity Education! It consists of offereing basic IT services to anyone in need in exchange for a small, requested donation for our club. Donations are not manditory. 
+DATDA IT is one of the ways we fund our Cybersecurity Education! It consists of offereing basic IT services to anyone in need in exchange for a small, requested donation for our club. Donations are not mandatory. 
 
 ## What do you do?
 * Secure Drive Disposal
