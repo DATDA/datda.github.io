@@ -5,7 +5,7 @@ date:   2019-01-31
 categories: notes
 author: Bugg
 ---
-# Meeting Notes January 01st, 2019:
+# Meeting Notes January 31st, 2019:
 
 ## Welcome Back!
 
