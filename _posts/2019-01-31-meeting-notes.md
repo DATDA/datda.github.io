@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meeting Notes for January 01st, 2019"
+title:  "Meeting Notes for January 31st, 2019"
 date:   2019-01-31
 categories: notes
 author: Bugg
