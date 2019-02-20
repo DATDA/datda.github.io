@@ -7,13 +7,16 @@ author: Bugg
 ---
 # Meeting Notes Febuary 21th, 2019:
 
-## Announcement -> @bakgwei
+## Announcement from @bakgwei -> @bakgwei
 - @bakgwei gave an announcement
 
 ## Hacker Jeopardy -> @bugg 
 - Newz: This Chineese tech company has repeatedly been in the news in the US and abroad due to intense scrutiny by US and ally intelligence communities relating to their ties to the Chineese government and it's implications in 5G networks
 - Toolz: chmod go+x ba.sh
 - Knawledge: This, abbreviated DC describes a central server for authentication which may also serve DNS over the intranet
+
+## WEP Hacking -> @bugg
+- [Presentation](https://github.com/DATDA/main/blob/master/presentations/wep.pdf)
 
 <br>
 @Bugg
