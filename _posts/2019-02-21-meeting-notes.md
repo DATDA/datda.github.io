@@ -15,6 +15,9 @@ author: Bugg
 ## Cyber Force Competition -> @rafer
 - Presentation on CEDAR's experience at INL
 
+## No Relationship -> @clerek
+- @clerek educated us about Cyber Daily and the No Relationship attacks
+
 ## WEP Hacking -> @bugg
 - [Presentation](https://github.com/DATDA/main/blob/master/presentations/wep.pdf)
 
