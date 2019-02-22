@@ -18,11 +18,11 @@ author: Bugg
 ## No Relationship -> @clerek
 - @clerek educated us about Cyber Daily and the No Relationship attacks
 
-## WEP Hacking -> @bugg
-- [Presentation](https://github.com/DATDA/main/blob/master/presentations/wep.pdf)
+~~## WEP Hacking -> @bugg~~
+~~- [Presentation](https://github.com/DATDA/main/blob/master/presentations/wep.pdf)~~
 
-## Announcement from @bakgwei -> @bakgwei
-- @bakgwei gave an announcement
+~~## Announcement from @bakgwei -> @bakgwei~~
+~~- @bakgwei gave an announcement~~
 
 <br>
 @Bugg
