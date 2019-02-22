@@ -16,7 +16,7 @@ author: Bugg
 - Presentation on CEDAR's experience at INL
 
 ## No Relationship -> @clerek
-- @clerek educated us about Cyber Daily and the No Relationship attacks
+- @clerek educated us about Cyber Daily and the No Relationship attacks and GDPR and Halo and lots more!
 
 ~~## WEP Hacking -> @bugg~~
 ~~- [Presentation](https://github.com/DATDA/main/blob/master/presentations/wep.pdf)~~
