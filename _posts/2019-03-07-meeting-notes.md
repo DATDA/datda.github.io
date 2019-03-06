@@ -11,7 +11,7 @@ author: Bugg
 - **Newz:** 
   - This week at RSA, the NSA (yes that NSA) released this open-source (and free!) tool as the first real-competitor to IDA-Pro.
 - **Toolz:**
-  - strings blobby.blob | grep flag
+  - `strings blobby.blob | grep flag`
 - **Knawledge:**
   - What does it mean for a server (program) to listen on 0.0.0.0
 
