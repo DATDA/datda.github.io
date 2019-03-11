@@ -11,9 +11,9 @@ author: Bugg
 - **Newz:** 
   - ???
 - **Toolz:**
-  - `???
+  - `tail -f`
 - **Knawledge:**
-  - ???
+  - VPN stands for *Virtual Private Network*. This V _ _ _ is also a Virtual Network, though there's nothing inherently private about it. 
 
 ## Tor Hidden Services -> @bugg
 - [Presentation](https://github.com/DATDA/main/blob/master/presentations/tor_hidden_service.pdf)
