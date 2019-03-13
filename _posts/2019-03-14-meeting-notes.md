@@ -9,7 +9,7 @@ author: Bugg
 
 ## Hacker Jeopardy -> @bugg 
 - **Newz:** 
-  - ???
+  - This software giant specializing in VPN and Remote Access was recently informed by the FBI that they had been hacked...for months...from password spraying. No worries though they just hold access credentials for 490 of the Fortune 500.
 - **Toolz:**
   - `tail -f`
 - **Knawledge:**
