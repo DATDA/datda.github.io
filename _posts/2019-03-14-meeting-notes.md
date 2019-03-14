@@ -7,7 +7,7 @@ author: Bugg
 ---
 # Meeting Notes March 14th, 2019:
 
-No Meeting due to snow closure!
+## No Meeting due to Snow Closure!
 
 <br>
 @Bugg
