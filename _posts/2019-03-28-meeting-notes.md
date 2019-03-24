@@ -47,7 +47,7 @@ author: Bugg
     - Following each selection or change of any officer/advisor, the Campus Activities Center will be notified
   - Section 2.
     - Election Timeline
-      - 1. The officers shall be elected by the 1st week of April each spring semester. *(lol)*
+      - 1. The officers shall be elected by the 1st week of April each spring semester. *[lol]*
       - 2. All candidates shall be nominated from the floor at least two weeks before the scheduled elections.
       - 3. One week prior to the election, all candidates will have the opportunity to speak as to their qualifications and answer questions in a debate style format in order to aid the membership as they determine who to vote for
       - 4. Voting results must be disclosed prior to the conclusion of the meeting in which the voting takes place.
