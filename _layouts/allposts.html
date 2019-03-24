@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include header.html %}
+  <body>
+    {% include page-header.html %}
+    <section class="main-content container">
+      <div class="col-sm-15 col-md-15 col-lg-15 col-xl-15">
+        {{ content }}
+      </div>
+      <div class="col-sm-15 col-md-15 col-lg-15 col-xl-15">
+        {% include sideNav.html %}
+      </div>
+    </section>
+    {% include footer.html %}
+  </body>
+</html>
