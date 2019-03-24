@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: allposts
 ---
 # All Posts
