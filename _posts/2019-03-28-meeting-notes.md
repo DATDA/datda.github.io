@@ -66,20 +66,11 @@ author: Bugg
       - 2. While the nomination process may be expedited, no other steps may be expedited nor any steps skipped.
 
 ## Election Nomnations! -> @Iguana
-- President
-  - Charlie
-- Vice President
-  - Charlie
-- Secretary
-  - Charlie
-- Treasurer
-  - Charlie
-- Fundraising
-  - Charlie
-- Recruiting
-  - Charlie
-- Member Educator
-  - Charlie
+- All persons were nominated for all positions
+- Persons Nominated:
+  - Ana, Rafer, Chris, Winston, Addison, Evan, Thaddeus, Sidney, Kelby, Bryce, Carlton, James, Sadlad (Hypeman), OhMyUser
+- Positions: 
+  - President, Vice President, Secretary, Treasurer, Fundraising, Recruiting, Member Educator
 
 ## Upcomming Election News! -> @Iguana
 - Next week Speeches/Debates (4/04/2019)
