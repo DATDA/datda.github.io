@@ -9,11 +9,11 @@ author: Bugg
 
 ## Hacker Jeopardy -> @bugg 
 - **Newz:** 
-  - adsf
+  - Last week Kaspersky Lab announced that they had discovered a sophisicated supply chain attack which backdoored over 57,000 users of this computer manufactuer. 
 - **Toolz:**
-  - `asdf`
+  - `shred -uz super.secret`
 - **Knawledge:**
-  - asdf
+  - This extremely popular (now) computing construct is an isolated user space in which computer programs run directly on the host operating system's kernel (and file system) but have access to a restricted subset of its resources. 
 
 ## Election Stuff from the Constitution -> @Iguana
 *sorry for the bad formatting :( -@bugg*
