@@ -66,6 +66,7 @@ author: Bugg
 - Election Procedures
 - Voting
 - Results
+  - We decided to use [this](https://github.com/rameshvs/irv) program to get our initial tallys
 - Positions: 
   - President -> 
   - Vice President -> 
