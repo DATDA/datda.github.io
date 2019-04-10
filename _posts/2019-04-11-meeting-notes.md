@@ -9,11 +9,11 @@ author: Bugg
 
 ## Hacker Jeopardy -> @bugg 
 - **Newz:** 
-  - Last week Kaspersky Lab asd
+  - This week the discovery of this brand new APT Framework was announced by Kaspersky Lab. It's notable in being a fully-developed APT framework with an unprecnetended number of deployed modules capable of complete compromise for nearly any advesary and having been running completely undetected since 2014. Currently the only known victim was a diplomatic entity from a country in Central Asia, but many more are suspected.
 - **Toolz:**
-  - `shred -uz sasd
+  - `grep -oE "\b([0-9]{1,3}\.){3}[0-9]{1,3}\b" /var/log/auth.log | sort | uniq -c | sort -n`
 - **Knawledge:**
-  - This extremely popular (now) computing construct isasdf
+  - When you first land a shell on a system, these files can give you great insight into the last commands run by a given user.
 
 ## Election Stuff from the Constitution -> @Iguana
 *sorry for the bad formatting :( -@bugg*
