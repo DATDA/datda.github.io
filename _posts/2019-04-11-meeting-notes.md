@@ -66,15 +66,15 @@ author: Bugg
 - Election Procedures
 - Voting
 - Results
-  - We decided to use [this](https://github.com/rameshvs/irv) program to get our initial tallys
+  - We decided to use [this](https://github.com/rameshvs/irv) program to get our initial tallys but then it was too hard so we hand-counted again.
 - Positions: 
-  - President -> 
-  - Vice President -> 
-  - Secretary -> 
-  - Treasurer -> 
-  - Fundraising -> 
-  - Recruiting -> 
-  - Member Educator -> 
+  - President -> @bugg (Chris)
+  - Vice President -> @scrypy (Rafer)
+  - Secretary -> @ninjakat (Sidney)
+  - Treasurer -> @Boyo McGee69 (Thaddeus)
+  - Fundraising -> @Iguana (Ana)
+  - Recruiting -> @Daddison (Addison)
+  - Member Educator -> @Cleric (Winston)
 
 <br>
 @Bugg
