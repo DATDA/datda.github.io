@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meeting Notes for Sept. 12, 2019"
-date:   2019-09-012
+date:   2019-09-12
 categories: notes
 author: scrypy
 ---
