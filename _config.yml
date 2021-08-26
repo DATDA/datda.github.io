@@ -4,7 +4,7 @@ description: University of Wyoming's Cybersecurity Club (RSO)
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://datda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: datda307
+twitter_username: DATDA_UWyo
 github_username:  DATDA
 
 # Build settings
@@ -12,4 +12,4 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 
 contact:
-  email: cedar@cs.uwyo.edu
+  email: datda.uwyo@gmail.com
