@@ -6,10 +6,9 @@ layout: default
 ### THANK YOU! DATDA runs on more than hopes and dreams and every donation goes to helping forward our mission toward Cybersecurity Education!
 
 ## Ways to Donate:
-- Support us on Patreon *(Comming Soon!)*
+- [Support us on Patreon](https://www.patreon.com/datda)
 - [Buy Our Merch](https://shop.spreadshirt.com/defense-against-the-dark-arts)
 - [Donate directly (cash/check/equipment)](mailto:datda.uwyo@gmail.com)
-- [Back us on Go-Fund-Me](https://www.gofundme.com/uw-cybersecurity-club-to-conference)
 
 ### What does this money fund?
 This money funds those hopes and dreams! It goes toward recruitment, conferences, equipment, competitions and more!
