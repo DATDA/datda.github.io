@@ -34,6 +34,7 @@ Defense Against The Dark Arts
 * We also post stuff on our [Github](https://github.com/DATDA).
 * We also have a Discord chat listed [here](https://datda.tk/contact).
 * Subscribe to our mailing list by sending an email to datda-request@cs.uwyo.edu with the subject "subscribe".
+
 ## Are you an RSO?
 * Yes. [UWConnect Site](https://uwyo.campuslabs.com/engage/organization/datda)
 
