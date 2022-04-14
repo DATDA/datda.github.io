@@ -1,4 +1,0 @@
----
-layout: allposts
----
-# All Posts

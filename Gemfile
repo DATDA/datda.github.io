@@ -1,4 +1,2 @@
-source 'https://rubygems.org'
-
-
-gem "jekyll-theme-cayman"
+source "https://rubygems.org"
+gemspec
